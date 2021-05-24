@@ -334,7 +334,7 @@ section {
   color: #173b6c;
 }
 
-.about .section-title {
+.about .section-title > p {
   text-align: justify;
 }
 .about .content ul {
